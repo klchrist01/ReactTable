@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 1px solid black;
+}
+
+th.sort-desc {
+  background-color: #f0f;
+}
+
+th.sort-asc {
+  background-color: #3d3d;
+}
